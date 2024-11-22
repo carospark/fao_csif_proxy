@@ -29,6 +29,6 @@ Scripts include all data processing, analysis, and plotting used in manuscript. 
 
 ### Step 7: Defining covariates for model
 
-### Step 8: RUnning multilevel Bayesia Mixed Model
+### Step 8: Running multilevel Bayesia Mixed Model
 
 ### Step 9: Plotting model output
